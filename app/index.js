@@ -43,13 +43,3 @@ ReactDOM.render(
     />,
   document.getElementById("app")
 );
-
-
-
-//Create a post object literal in index.js that has the below properties.
-// title
-// author
-// body
-// comments (array of strings)
-// Render these properties using a Post component.
-// The HTML (or more accurately, JSX) composition of your Post is up to you.
