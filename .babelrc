@@ -1,0 +1,7 @@
+// specify which transformations should run by loader
+
+{
+  "presets": [
+    "react"
+  ]
+}
